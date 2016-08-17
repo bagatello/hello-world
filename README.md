@@ -1,2 +1,2 @@
 # hello-world
-Просто репа
+My 1st test repository
